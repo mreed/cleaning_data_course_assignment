@@ -9,7 +9,7 @@ These signals were used to estimate variables of the feature vector for each pat
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 The data was than grouped by subjectid and activity and the mean of the grouping was used
 
-The mean of each variable by subjec and activity 
+Each variable represents the mean of the values grouped by subject and activity
 
 tBodyAcc-XYZ
 
