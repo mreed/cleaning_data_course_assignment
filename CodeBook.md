@@ -10,23 +10,42 @@ These signals were used to estimate variables of the feature vector for each pat
 The data was than grouped by subjectid and activity and the mean of the grouping was used
 
 The mean of each variable by subjec and activity 
+
 tBodyAcc-XYZ
+
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
+
 tBodyGyro-XYZ
+
 tBodyGyroJerk-XYZ
+
 tBodyAccMag
+
 tGravityAccMag
+
 tBodyAccJerkMag
+
 tBodyGyroMag
+
 tBodyGyroJerkMag
+
 fBodyAcc-XYZ
+
 fBodyAccJerk-XYZ
+
 fBodyGyro-XYZ
+
 fBodyAccMag
+
 fBodyAccJerkMag
+
 fBodyGyroMag
+
 fBodyGyroJerkMag
+
 subjectid - the the id of the subject that the data was recorded from
+
 activity - is the activity of the user when the data was collected
 
