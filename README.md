@@ -6,15 +6,25 @@ The file run_analysis.R cantains the code for the project.
 1. First it is assumed you are using a working directory you downloaded with the zip. It has the following structure
 
 /training
+
   subject_training.txt
+  
   X_training.txt
+  
   y_training.txt
+  
 /test
+
   subject_test.txt
+  
   X_test.txt
+  
   y_test.txt
+  
 activity_labels.txt
+
 features.txt
+
 
 run_analysis.R used the dplyr library to use its group_by and summarize_all functions
 
